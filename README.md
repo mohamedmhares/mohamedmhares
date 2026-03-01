@@ -10,14 +10,14 @@
   <img src="https://komarev.com/ghpvc/?username=mohamedmhares&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center">Backend Developer | C# .NET Enthusiast | Aspiring Software Architect</p>
+<p align="center">.NET Developer | ASP.NET Core | .NET MAUI | Backend Developer | Mobile Developer | Enthusiastic About Innovative Solutions</p>
 
 ---
 
 <h2>About Me</h2>
 <ul>
   <li>💻 Backend developer with a passion for ASP.NET Core, MVC, and Web APIs.</li>
-  <li>🔨 1+ years of experience in building and scaling web applications.</li>
+  <li>🔨 2+ years of experience in building and scaling web applications.</li>
   <li>🎯 Highly skilled in .NET, C#, SQL Server, and Entity Framework Core.</li>
   <li>🚀 Constantly learning and staying updated with the latest in backend development.</li>
   <li>📧 Feel free to reach out: <a href="mailto:mohamed.mhares97@gmail.com">mohamed.mhares97@gmail.com</a></li>
